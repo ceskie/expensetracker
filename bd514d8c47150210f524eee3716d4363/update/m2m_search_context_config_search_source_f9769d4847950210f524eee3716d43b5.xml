@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Expense Tracker - Workspace Search">cc761d4870950210158cab1d9c4cb3f2</search_context_config>
+        <source display_value="Expense Tracker - x_634920_expense_0_expenses">b1769d4847950210f524eee3716d43ad</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 14:03:56</sys_created_on>
+        <sys_id>f9769d4847950210f524eee3716d43b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Expense Tracker" source="x_634920_expense_0">bd514d8c47150210f524eee3716d4363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Tracker">bd514d8c47150210f524eee3716d4363</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_f9769d4847950210f524eee3716d43b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 14:03:56</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

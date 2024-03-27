@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Visualization Designer</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 14:03:51</sys_created_on>
+        <sys_id>c8761d48949502106ea3748933e06df0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Visualization Designer</sys_name>
+        <sys_package display_value="Expense Tracker" source="x_634920_expense_0">bd514d8c47150210f524eee3716d4363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Tracker">bd514d8c47150210f524eee3716d4363</sys_scope>
+        <sys_update_name>sys_ux_screen_type_c8761d48949502106ea3748933e06df0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 14:03:51</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8761d48949502106ea3748933e06df0"/>
+</record_update>

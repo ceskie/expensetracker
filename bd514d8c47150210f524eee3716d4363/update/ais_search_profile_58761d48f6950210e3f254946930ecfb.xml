@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Expense Tracker</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>expense-tracker Search Profile</label>
+        <name>x_634920_expense_0_oajxkql_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <qna_model_id/>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-27 14:03:50</sys_created_on>
+        <sys_id>58761d48f6950210e3f254946930ecfb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>expense-tracker Search Profile</sys_name>
+        <sys_package display_value="Expense Tracker" source="x_634920_expense_0">bd514d8c47150210f524eee3716d4363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Tracker">bd514d8c47150210f524eee3716d4363</sys_scope>
+        <sys_update_name>ais_search_profile_58761d48f6950210e3f254946930ecfb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-27 14:03:56</sys_updated_on>
+    </ais_search_profile>
+</record_update>
