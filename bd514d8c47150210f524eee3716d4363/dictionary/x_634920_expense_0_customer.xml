@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e3f3d55447150210f524eee3716d4385" label="Customer" max_length="40" name="x_634920_expense_0_customer" type="collection">
+        <element label="Description" max_length="1024" name="description" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

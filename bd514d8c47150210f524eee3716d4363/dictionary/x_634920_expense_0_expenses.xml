@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="c226d14847950210f524eee3716d4346" label="Expenses" max_length="40" name="x_634920_expense_0_expenses" text_index="true" type="collection">
+        <element label="Customer" max_length="32" name="customer" reference="x_634920_expense_0_customer" type="reference"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Time spent (minutes)" max_length="40" name="time_spent_minutes" type="integer"/>
+        <element choice="1" label="Category" max_length="40" name="u_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Administration" value="administration"/>
+                <element inactive_on_update="false" label="Development" value="devevelopment"/>
+                <element inactive_on_update="false" label="Solutioning" value="solutioning"/>
+            </choice>
+        </element>
         <index name="index">
+            <element name="customer"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

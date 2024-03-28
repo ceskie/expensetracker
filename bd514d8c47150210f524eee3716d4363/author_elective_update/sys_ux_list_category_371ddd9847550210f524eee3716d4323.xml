@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="Expense Tracker_menu_config">5d769d4847950210f524eee3716d4363</configuration>
+        <description/>
+        <order>200</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 09:11:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>371ddd9847550210f524eee3716d4323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customers</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Expense Tracker" source="x_634920_expense_0">bd514d8c47150210f524eee3716d4363</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense Tracker">bd514d8c47150210f524eee3716d4363</sys_scope>
+        <sys_update_name>sys_ux_list_category_371ddd9847550210f524eee3716d4323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 09:11:58</sys_updated_on>
+        <title>Customers</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Expense Tracker">bd514d8c47150210f524eee3716d4363</application>
+        <file_path/>
+        <instance_id>a2f184c31b52bd14168f4089bd4bcbf0</instance_id>
+        <instance_name>dev208412</instance_name>
+        <name>sys_ux_list_category_371ddd9847550210f524eee3716d4323</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="Expense Tracker_menu_config">5d769d4847950210f524eee3716d4363</configuration><description/><order>200</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-28 09:11:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>371ddd9847550210f524eee3716d4323</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Customers</sys_name><sys_overrides/><sys_package display_value="Expense Tracker" source="x_634920_expense_0">bd514d8c47150210f524eee3716d4363</sys_package><sys_policy/><sys_scope display_value="Expense Tracker">bd514d8c47150210f524eee3716d4363</sys_scope><sys_update_name>sys_ux_list_category_371ddd9847550210f524eee3716d4323</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-28 09:11:58</sys_updated_on><title>Customers</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>-245778702</payload_hash>
+        <record_name>Customers</record_name>
+        <reverted_from/>
+        <source>bd4761cc47d50210f524eee3716d43d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 09:11:58</sys_created_on>
+        <sys_id>2e3d1d9847550210f524eee3716d431e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e8454906b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 09:11:58</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>223d1d984a5502101b29d73e6b1e1b1e</update_guid>
+        <update_guid_history>223d1d984a5502101b29d73e6b1e1b1e:-245778702</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-28 09:12:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>01d838360ec049e88044ae81527354e4</sys_id>
+        <sys_metadata>371ddd9847550210f524eee3716d4323</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customers</sys_name>
+        <sys_package display_value="Expense Tracker" source="x_634920_expense_0">bd514d8c47150210f524eee3716d4363</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Expense Tracker">bd514d8c47150210f524eee3716d4363</sys_scope>
+        <sys_scope_delete display_value="">24b37d295ec64600b690966a37c40000</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_371ddd9847550210f524eee3716d4323</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_371ddd9847550210f524eee3716d4323">2e3d1d9847550210f524eee3716d431e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-28 09:12:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
